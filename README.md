@@ -1,0 +1,2 @@
+# globalJS
+javascript
